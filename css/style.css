@@ -9,3 +9,11 @@ body {
 header {
     background-color: green;
 }
+
+footer {
+	background-color: #000;
+}
+
+section {
+	background-color: #c1c1c1;
+}
